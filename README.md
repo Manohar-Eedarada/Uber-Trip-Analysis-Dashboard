@@ -242,7 +242,7 @@ Uber-Trip-Analysis-Dashboard
 
 ## Dashboard 3 – Details
 
-![Dashboard 3](Images/DashBoard3.png)
+![Dashboard 3]https://github.com/Manohar-Eedarada/Uber-Trip-Analysis-Dashboard/blob/main/DashBoard3.jpeg
 
 # 🚀 Project Highlights
 
