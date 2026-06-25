@@ -236,7 +236,7 @@ Uber-Trip-Analysis-Dashboard
 
 ## Dashboard 2 – Time Analysis
 
-![Dashboard 2](Images/DashBoard2.png)
+![Dashboard 2]https://github.com/Manohar-Eedarada/Uber-Trip-Analysis-Dashboard/blob/main/DashBoard2.jpeg
 
 ---
 
