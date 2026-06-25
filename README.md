@@ -230,7 +230,7 @@ Uber-Trip-Analysis-Dashboard
 
 ## Dashboard 1 – Overview Analysis
 
-![Dashboard 1](Images/DashBoard1.png)
+![Dashboard 1]https://github.com/Manohar-Eedarada/Uber-Trip-Analysis-Dashboard/blob/main/DashBoard1.jpeg
 
 ---
 
